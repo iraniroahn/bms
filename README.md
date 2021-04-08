@@ -1,2 +1,2 @@
 # bms
-A simple, basic bank management system
+A simple& basic bank managment system
